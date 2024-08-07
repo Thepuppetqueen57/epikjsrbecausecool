@@ -1,0 +1,5 @@
+{
+    "name": "@thepuppet57/epikjsrbecausecool",
+    "version": "1.0.0",
+    "exports": "./mod.ts"
+}

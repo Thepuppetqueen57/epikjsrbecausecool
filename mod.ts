@@ -12,3 +12,7 @@ export function adder(epiknumber: number) : number {
 
     return resultargh
 }
+
+export function squareroots(noomber: number) : number {
+    return Math.sqrt(Math.sqrt(Math.sqrt(noomber)))
+}
